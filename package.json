@@ -1,0 +1,19 @@
+{
+  "name": "ellocka-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micrub/ellocka-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micrub/ellocka-lib/issues"
+  },
+  "homepage": "https://github.com/micrub/ellocka-lib#readme"
+}
